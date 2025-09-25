@@ -20,7 +20,7 @@ public abstract class BaseTest {
 
    @BeforeClass
     public static void beforeAllTests() {
-       driver = new EdgeDriver();
+       driver = new ChromeDriver();
        driver.manage().window().maximize();
        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(25));
