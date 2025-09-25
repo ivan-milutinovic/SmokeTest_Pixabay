@@ -8,6 +8,7 @@ import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
 import pages.HomePage;
 
 import java.time.Duration;
@@ -19,7 +20,7 @@ public abstract class BaseTest {
 
    @BeforeClass
     public static void beforeAllTests() {
-       driver = new ChromeDriver();
+       driver = new EdgeDriver();
        driver.manage().window().maximize();
        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(25));
