@@ -1,9 +1,3 @@
-Izvinjavam se, u pravu ste. Sekcija o strukturi projekta je ključna i trebalo je da bude uključena.
-
-Evo kompletne, ispravljene engleske verzije za SmokeTest_Pixabay, sa dodatkom sekcije o strukturi:
-
-Markdown
-
 # SmokeTest_Pixabay
 
 [![Playwright Logo](https://img.shields.io/badge/Playwright-E2E%20Testing-brightgreen?logo=playwright&style=for-the-badge)](https://playwright.dev/)
