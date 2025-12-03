@@ -5,7 +5,7 @@
 [![Target Website](https://img.shields.io/badge/Target-Pixabay.com-informational?style=for-the-badge)](https://pixabay.com/)
 [![Status](https://img.shields.io/badge/Scope-Smoke%20Testing-yellowgreen?style=for-the-badge)]()
 
-## 📝 Project Overview
+## Project Overview
 
 This repository features a concise and efficient test automation suite dedicated to performing fundamental **Smoke Tests** on the well-known media platform **[Pixabay](https://pixabay.com/)**.
 
@@ -19,7 +19,7 @@ The tests are written using the **Playwright** framework in **TypeScript** for r
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 * **Playwright** - Used for reliable and fast cross-browser automation.
 * **TypeScript** - The programming language used to develop robust and scalable tests.
@@ -27,7 +27,7 @@ The tests are written using the **Playwright** framework in **TypeScript** for r
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 To run this test suite locally, you will need:
 
@@ -37,7 +37,7 @@ To run this test suite locally, you will need:
 
 ---
 
-## 🚀 Installation and Execution
+## Installation and Execution
 
 Follow these steps for a quick setup and test execution.
 
